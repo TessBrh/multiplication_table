@@ -2,8 +2,7 @@
 
 using std::cout;
 
-int main()
-{
+int main() {
     int limit = 12;
     int limitMinus = limit-=1;
     int x = 1;
